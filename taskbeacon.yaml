@@ -1,0 +1,21 @@
+id: T000107
+slug: heider-simmel-social-attribution-task
+title: Heider–Simmel Social Attribution Task
+acquisition: behavior
+variant: baseline
+cognitive_domain: [social-cognition, mentalizing, social-attribution]
+maturity: draft
+version:
+  release_tag: v0.1.0
+contracts:
+  taps: v0.2.0
+runtime:
+  profile: psyflow
+evidence:
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC7932368/
+  - https://doi.org/10.2307/1416950
+  - https://doi.org/10.1016/S0885-2014(00)00014-9
+  - https://doi.org/10.1073/pnas.1714471114
+  - https://doi.org/10.1080/02643290342000005
+  - https://doi.org/10.1098/rstb.2015.0075
+maintainer: [TaskBeacon]

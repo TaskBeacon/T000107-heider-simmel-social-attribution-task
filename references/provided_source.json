@@ -1,0 +1,25 @@
+{
+  "id": "RATAJSKA2021",
+  "title": "Attributing Social Meaning to Animated Shapes: A New Experimental Study of Apparent Behavior",
+  "authors": [],
+  "year": 2021,
+  "journal": "The American Journal of Psychology",
+  "doi_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7932368/",
+  "citation_count": 21,
+  "is_high_impact": false,
+  "open_access": true,
+  "used_for": [
+    "primary_protocol_source",
+    "stimulus_specification",
+    "timing_parameters",
+    "response_procedure"
+  ],
+  "parameter_bindings": {},
+  "notes": "User-provided primary protocol; citation threshold exception applies to the explicitly provided source.",
+  "source_kind": "url",
+  "source_locator": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7932368/",
+  "attachments": {
+    "paper_pdf": null,
+    "methods_path": null
+  }
+}

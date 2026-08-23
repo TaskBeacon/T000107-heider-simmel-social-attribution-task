@@ -1,0 +1,73 @@
+{
+  "generator": "scripts/generate_animations.py",
+  "generator_version": 1,
+  "source_policy": "new deterministic trajectories; no copied film frames or paths",
+  "animations": [
+    {
+      "condition": "social_helping",
+      "filename": "social_helping.mp4",
+      "duration_s": 15.0,
+      "fps": 24,
+      "frame_size": [
+        960,
+        540
+      ],
+      "sha256": "afaec169ab99c731d8ef0ed3f0e00c384cebece24afe8912816e56f627b99b42"
+    },
+    {
+      "condition": "social_chasing",
+      "filename": "social_chasing.mp4",
+      "duration_s": 15.0,
+      "fps": 24,
+      "frame_size": [
+        960,
+        540
+      ],
+      "sha256": "bd966e0d03e4f0c69c37407b4cc1d830f89135d2fd7655eb29c53bad895dc48b"
+    },
+    {
+      "condition": "mechanical_bounce",
+      "filename": "mechanical_bounce.mp4",
+      "duration_s": 15.0,
+      "fps": 24,
+      "frame_size": [
+        960,
+        540
+      ],
+      "sha256": "d610918b2da590c83c1fd313063067459ca2d474e64fe62959c2fea48faf7dd8"
+    },
+    {
+      "condition": "mechanical_conveyor",
+      "filename": "mechanical_conveyor.mp4",
+      "duration_s": 15.0,
+      "fps": 24,
+      "frame_size": [
+        960,
+        540
+      ],
+      "sha256": "937c6c5405ef4a6afe298b25dae82d48233a67b75023bf6a265629dde8cb429b"
+    },
+    {
+      "condition": "random_drift_a",
+      "filename": "random_drift_a.mp4",
+      "duration_s": 15.0,
+      "fps": 24,
+      "frame_size": [
+        960,
+        540
+      ],
+      "sha256": "fbaeefbc1acc2a2343c25e6654fa87236c7e487525cf2347caece3d7dc271a7c"
+    },
+    {
+      "condition": "random_drift_b",
+      "filename": "random_drift_b.mp4",
+      "duration_s": 15.0,
+      "fps": 24,
+      "frame_size": [
+        960,
+        540
+      ],
+      "sha256": "34f26fea4e7a927f26c017c8340a73877d1d23750eb9a942ccce8af8db78d320"
+    }
+  ]
+}

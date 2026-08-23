@@ -1,0 +1,135 @@
+task_id: T000107
+generated_at: '2026-08-23T16:04:51Z'
+selection_policy: provided_source_plus_curated_supporting_literature
+citation_threshold: 100
+papers:
+- id: RATAJSKA2021
+  title: 'Attributing Social Meaning to Animated Shapes: A New Experimental Study
+    of Apparent Behavior'
+  authors: []
+  year: 2021
+  journal: The American Journal of Psychology
+  doi_or_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7932368/
+  citation_count: 21
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - primary_protocol_source
+  - stimulus_specification
+  - timing_parameters
+  - response_procedure
+  parameter_bindings: {}
+  notes: User-provided primary protocol; citation threshold exception applies to the
+    explicitly provided source.
+- id: HEIDER_SIMMEL_1944
+  title: An Experimental Study of Apparent Behavior
+  authors:
+  - Fritz Heider
+  - Marianne Simmel
+  year: 1944
+  journal: The American Journal of Psychology
+  doi_or_url: https://doi.org/10.2307/1416950
+  citation_count: 3343
+  is_high_impact: false
+  open_access: false
+  used_for:
+  - paradigm_origin
+  - task_workflow
+  - stimulus_principles
+  - response_procedure
+  parameter_bindings: {}
+  notes: Historical primary source; citation count checked in OpenAlex on 2026-08-24.
+    The implementation does not reproduce its film.
+- id: FRITH_FRITH_2003
+  title: Development and neurophysiology of mentalizing
+  authors:
+  - Uta Frith
+  - Christopher D. Frith
+  year: 2003
+  journal: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  doi_or_url: https://doi.org/10.1098/rstb.2002.1218
+  citation_count: 2317
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - construct_definition
+  - mentalizing_interpretation
+  parameter_bindings: {}
+  notes: Open-access supporting review; citation count checked in OpenAlex on 2026-08-24.
+- id: ABELL_HAPPE_FRITH_2000
+  title: Do triangles play tricks? Attribution of mental states to animated shapes
+    in normal and abnormal development
+  authors:
+  - Francesca Abell
+  - Francesca Happé
+  - Uta Frith
+  year: 2000
+  journal: Cognitive Development
+  doi_or_url: https://doi.org/10.1016/S0885-2014(00)00014-9
+  citation_count: 719
+  is_high_impact: false
+  open_access: false
+  used_for:
+  - condition_semantics
+  - random_goal_directed_tom_contrast
+  - response_scoring
+  parameter_bindings: {}
+  notes: Direct three-motion-family protocol source; citation count checked in OpenAlex
+    on 2026-08-24.
+- id: ISIK_ET_AL_2017
+  title: Perceiving social interactions in the posterior superior temporal sulcus
+  authors:
+  - Leyla Isik
+  - Kami Koldewyn
+  - David Beeler
+  - Nancy Kanwisher
+  year: 2017
+  journal: Proceedings of the National Academy of Sciences
+  doi_or_url: https://doi.org/10.1073/pnas.1714471114
+  citation_count: 324
+  is_high_impact: true
+  open_access: true
+  used_for:
+  - social_interaction_contrast
+  - dynamic_stimulus_rationale
+  - high_impact_support
+  parameter_bindings: {}
+  notes: Open-access, high-impact supporting source; citation count checked in OpenAlex
+    on 2026-08-24.
+- id: MARTIN_WEISBERG_2003
+  title: Neural foundations for understanding social and mechanical concepts
+  authors:
+  - Alex Martin
+  - Jill Weisberg
+  year: 2003
+  journal: Cognitive Neuropsychology
+  doi_or_url: https://doi.org/10.1080/02643290342000005
+  citation_count: 290
+  is_high_impact: false
+  open_access: false
+  used_for:
+  - social_mechanical_contrast
+  - mechanical_motion_semantics
+  parameter_bindings: {}
+  notes: Direct social-versus-mechanical comparison source; citation count checked
+    in OpenAlex on 2026-08-24.
+- id: CROSS_ET_AL_2015
+  title: The shaping of social perception by stimulus and knowledge cues to human
+    animacy
+  authors:
+  - Emily S. Cross
+  - Richard Ramsey
+  - Roman Liepelt
+  - Wolfgang Prinz
+  - Antonia F. de C. Hamilton
+  year: 2015
+  journal: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  doi_or_url: https://doi.org/10.1098/rstb.2015.0075
+  citation_count: 104
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - animacy_cues
+  - stimulus_design_rationale
+  parameter_bindings: {}
+  notes: Open-access supporting source; citation count checked in OpenAlex on 2026-08-24.

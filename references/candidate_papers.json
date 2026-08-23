@@ -1,0 +1,2601 @@
+[
+  {
+    "id": "W2032568497",
+    "title": "Measurement Instruments for the Anthropomorphism, Animacy, Likeability, Perceived Intelligence, and Perceived Safety of Robots",
+    "authors": [
+      "Christoph Bartneck",
+      "Dana Kuli\u0107",
+      "Elizabeth A. Croft",
+      "Susana Zoghbi"
+    ],
+    "year": 2008,
+    "journal": "International Journal of Social Robotics",
+    "doi_or_url": "https://doi.org/10.1007/s12369-008-0001-3",
+    "citation_count": 3141,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2154384688",
+    "title": "The Enigmatic temporal pole: a review of findings on social and emotional processing",
+    "authors": [
+      "Ingrid R. Olson",
+      "Alan Plotzker",
+      "Youssef Ezzyat"
+    ],
+    "year": 2007,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awm052",
+    "citation_count": 1399,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3040443323",
+    "title": "Consensus Paper: Cerebellum and Social Cognition",
+    "authors": [
+      "Frank Van Overwalle",
+      "Mario Manto",
+      "Zaira Cattaneo",
+      "Silvia Clausi",
+      "Chiara Ferrari",
+      "John D. E. Gabrieli",
+      "Xavier Guell",
+      "Elien Heleven",
+      "Michela Lupo",
+      "Qianying Ma",
+      "Marco Michelutti",
+      "Giusy Olivito"
+    ],
+    "year": 2020,
+    "journal": "The Cerebellum",
+    "doi_or_url": "https://doi.org/10.1007/s12311-020-01155-1",
+    "citation_count": 458,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2124884997",
+    "title": "The social brain: allowing humans to boldly go where no other species has been",
+    "authors": [
+      "Uta Frith",
+      "Chris Frith"
+    ],
+    "year": 2009,
+    "journal": "Philosophical Transactions of the Royal Society B Biological Sciences",
+    "doi_or_url": "https://doi.org/10.1098/rstb.2009.0160",
+    "citation_count": 456,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2128332414",
+    "title": "The intense world syndrome \u2013 an alternative hypothesis for autism",
+    "authors": [
+      "Henry Markram"
+    ],
+    "year": 2007,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/neuro.01.1.1.006.2007",
+    "citation_count": 394,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2889716325",
+    "title": "Shared understanding of narratives is correlated with shared neural responses",
+    "authors": [
+      "Mai Nguyen",
+      "Tamara Vanderwal",
+      "Uri Hasson"
+    ],
+    "year": 2018,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2018.09.010",
+    "citation_count": 345,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2085436006",
+    "title": "Designing Robots With Movement in Mind",
+    "authors": [
+      "Guy Hoffman",
+      "Wendy Ju"
+    ],
+    "year": 2014,
+    "journal": "Journal of Human-Robot Interaction",
+    "doi_or_url": "https://doi.org/10.5898/jhri.3.1.hoffman",
+    "citation_count": 310,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4236637433",
+    "title": "One\u2010year\u2010old infants use teleological representations of actions productively",
+    "authors": [
+      "Gergely Csibra",
+      "Szilvia B\u0131\u0301r\u00f3",
+      "Orsolya Ko\u00f3s",
+      "Gy\u00f6rgy Gergely"
+    ],
+    "year": 2003,
+    "journal": "Cognitive Science",
+    "doi_or_url": "https://doi.org/10.1207/s15516709cog2701_4",
+    "citation_count": 270,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1971224247",
+    "title": "I See What You Mean: How Attentional Selection Is Shaped by Ascribing Intentions to Others",
+    "authors": [
+      "Eva Wiese",
+      "Agnieszka Wykowska",
+      "Jan Zwickel",
+      "Hermann J. M\u00fcller"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0045391",
+    "citation_count": 240,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2899894238",
+    "title": "The Development of Anthropomorphism in Interaction: Intersubjectivity, Imagination, and Theory of Mind",
+    "authors": [
+      "Gabriella Airenti"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2018.02136",
+    "citation_count": 212,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2123137331",
+    "title": "DNA methylation of the oxytocin receptor gene predicts neural response to ambiguous social stimuli",
+    "authors": [
+      "Allison Jack",
+      "Jessica J. Connelly",
+      "J. P. Morris"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2012.00280",
+    "citation_count": 193,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2090158515",
+    "title": "Making sense of abstract events: Building event schemas",
+    "authors": [
+      "Bridgette Martin Hard",
+      "Barbara Tversky",
+      "David S. Lang"
+    ],
+    "year": 2006,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03193267",
+    "citation_count": 182,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3007580291",
+    "title": "Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense",
+    "authors": [
+      "Yixin Zhu",
+      "Tao Gao",
+      "Lifeng Fan",
+      "Siyuan Huang",
+      "Mark Edmonds",
+      "Hangxin Liu",
+      "Feng Gao",
+      "Chi Zhang",
+      "Siyuan Qi",
+      "Ying Wu",
+      "Joshua B. Tenenbaum",
+      "Song\u2010Chun Zhu"
+    ],
+    "year": 2020,
+    "journal": "Engineering",
+    "doi_or_url": "https://doi.org/10.1016/j.eng.2020.01.011",
+    "citation_count": 123,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2224792037",
+    "title": "Seeing Minds in Others \u2013 Can Agents with Robotic Appearance Have Human-Like Preferences?",
+    "authors": [
+      "Molly C. Martini",
+      "Christian A. Gonz\u00e1lez",
+      "Eva Wiese"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0146310",
+    "citation_count": 123,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2749216475",
+    "title": "Mentalizing skills do not differentiate believers from non-believers, but credibility enhancing displays do",
+    "authors": [
+      "David L. R. Maij",
+      "Frenk van Harreveld",
+      "Will M. Gervais",
+      "Yann Schrag",
+      "Christine M\u00f6hr",
+      "Michiel van Elk"
+    ],
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0182764",
+    "citation_count": 115,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2096975019",
+    "title": "Design issues on interactive environments for children with autism",
+    "authors": [
+      "Kerstin Dautenhahn"
+    ],
+    "year": 2000,
+    "journal": "University of Hertfordshire Research Archive (University of Hertfordshire)",
+    "doi_or_url": "https://openalex.org/W2096975019",
+    "citation_count": 112,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4387375952",
+    "title": "Seeing social interactions",
+    "authors": [
+      "Emalie McMahon",
+      "Leyla I\u015f\u0131k"
+    ],
+    "year": 2023,
+    "journal": "Trends in Cognitive Sciences",
+    "doi_or_url": "https://doi.org/10.1016/j.tics.2023.09.001",
+    "citation_count": 112,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2116066868",
+    "title": "Individual Differences in the Spontaneous Recruitment of Brain Regions Supporting Mental State Understanding When Viewing Natural Social Scenes",
+    "authors": [
+      "Dylan D. Wagner",
+      "William M. Kelley",
+      "Todd F. Heatherton"
+    ],
+    "year": 2011,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhr074",
+    "citation_count": 106,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2190764285",
+    "title": "The shaping of social perception by stimulus and knowledge cues to human animacy",
+    "authors": [
+      "Emily S. Cross",
+      "Richard Ramsey",
+      "Roman Liepelt",
+      "Wolfgang Prinz",
+      "Antonia F. de C. Hamilton"
+    ],
+    "year": 2015,
+    "journal": "Philosophical Transactions of the Royal Society B Biological Sciences",
+    "doi_or_url": "https://doi.org/10.1098/rstb.2015.0075",
+    "citation_count": 104,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2045373540",
+    "title": "Priming of supernatural agent concepts and agency detection",
+    "authors": [
+      "Michiel van Elk",
+      "Bastiaan T. Rutjens",
+      "J. van der Pligt",
+      "Frenk van Harreveld"
+    ],
+    "year": 2014,
+    "journal": "Religion Brain & Behavior",
+    "doi_or_url": "https://doi.org/10.1080/2153599x.2014.933444",
+    "citation_count": 88,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2101373987",
+    "title": "Paying Attention to Social Meaning: An fMRI Study",
+    "authors": [
+      "Paula Tavares",
+      "Andrew D. Lawrence",
+      "Philip Barnard"
+    ],
+    "year": 2007,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhm212",
+    "citation_count": 86,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2291421104",
+    "title": "Language Reflects \u201cCore\u201d Cognition: A New Theory About the Origin of Cross\u2010Linguistic Regularities",
+    "authors": [
+      "Brent Strickland"
+    ],
+    "year": 2016,
+    "journal": "Cognitive Science",
+    "doi_or_url": "https://doi.org/10.1111/cogs.12332",
+    "citation_count": 83,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2142667364",
+    "title": "Meanings in motion and faces: Developmental associations between the processing of intention from geometrical animations and gaze detection accuracy",
+    "authors": [
+      "Ruth Campbell",
+      "Kate Lawrence",
+      "William Mandy",
+      "CHEYTNA MITRA",
+      "LALITHA JEYAKUMA",
+      "David Skuse"
+    ],
+    "year": 2006,
+    "journal": "Development and Psychopathology",
+    "doi_or_url": "https://doi.org/10.1017/s0954579406060068",
+    "citation_count": 81,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2084106410",
+    "title": "Theory of Mind in adults with right hemisphere damage: What\u2019s the story?",
+    "authors": [
+      "Ethan Weed",
+      "William B. McGregor",
+      "J\u00f8rgen Feldb\u00e6k Nielsen",
+      "Andreas Roepstorff",
+      "Uta Frith"
+    ],
+    "year": 2010,
+    "journal": "Brain and Language",
+    "doi_or_url": "https://doi.org/10.1016/j.bandl.2010.01.009",
+    "citation_count": 75,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2577565156",
+    "title": "Control blindness: Why people can make incorrect inferences about the intentions of others",
+    "authors": [
+      "Ashlan S. Willett",
+      "Richard S. Marken",
+      "Maximilian G. Parker",
+      "Warren Mansell"
+    ],
+    "year": 2017,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-016-1268-3",
+    "citation_count": 72,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2093918399",
+    "title": "The Neural Bases of Social Intention Understanding: The Role of Interaction Goals",
+    "authors": [
+      "Nicola Canessa",
+      "Federica Alemanno",
+      "Federica Riva",
+      "Alberto Zani",
+      "Alice Mado Proverbio",
+      "Nicola Mannara",
+      "Daniela Perani",
+      "Stefano F. Cappa"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0042347",
+    "citation_count": 72,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2620074296",
+    "title": "Behavioral Objects: The Rise of the Evocative Machines",
+    "authors": [
+      "Florent Levillain",
+      "Elisabetta Zibetti"
+    ],
+    "year": 2017,
+    "journal": "Journal of Human-Robot Interaction",
+    "doi_or_url": "https://doi.org/10.5898/jhri.6.1.levillain",
+    "citation_count": 71,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3010608265",
+    "title": "Social brain activation during mentalizing in a large autism cohort: the Longitudinal European Autism Project",
+    "authors": [
+      "the EU-AIMS LEAP group",
+      "Carolin Moessnang",
+      "Sarah Baumeister",
+      "Julian Tillmann",
+      "David Goyard",
+      "Tony Charman",
+      "Sara Ambrosino",
+      "Simon Baron\u2010Cohen",
+      "Christian F. Beckmann",
+      "Sven B\u00f6lte",
+      "Carsten Bours",
+      "Daisy Crawley"
+    ],
+    "year": 2020,
+    "journal": "Molecular Autism",
+    "doi_or_url": "https://doi.org/10.1186/s13229-020-0317-x",
+    "citation_count": 67,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2809723549",
+    "title": "A psychology of the film",
+    "authors": [
+      "Ed S. Tan"
+    ],
+    "year": 2018,
+    "journal": "Humanities and Social Sciences Communications",
+    "doi_or_url": "https://doi.org/10.1057/s41599-018-0111-y",
+    "citation_count": 67,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2134032478",
+    "title": "Social Perception in Autism Spectrum Disorders: Impaired Category Selectivity for Dynamic but not Static Images in Ventral Temporal Cortex",
+    "authors": [
+      "Jill Weisberg",
+      "Shawn C. Milleville",
+      "Lauren Kenworthy",
+      "Gregory L. Wallace",
+      "Stephen J. Gotts",
+      "Michael S. Beauchamp",
+      "Alex Martin"
+    ],
+    "year": 2012,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhs276",
+    "citation_count": 66,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2885893552",
+    "title": "Relationship Between Theory of Mind, Emotion Recognition, and Social Synchrony in Adolescents With and Without Autism",
+    "authors": [
+      "Paula Fitzpatrick",
+      "Jean A. Frazier",
+      "David Cochran",
+      "Teresa V. Mitchell",
+      "Caitlin Coleman",
+      "R. C. Schmidt"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2018.01337",
+    "citation_count": 62,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2035241320",
+    "title": "Functional Heterogeneity and Convergence in the Right Temporoparietal Junction",
+    "authors": [
+      "Su Mei Lee",
+      "Gregory McCarthy"
+    ],
+    "year": 2014,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhu292",
+    "citation_count": 56,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2653069673",
+    "title": "ANTHROPOMORPHISM IN ADVERTISING: THE EFFECT OF ANTHROPOMORPHIC PRODUCT DEMONSTRATION ON CONSUMER PURCHASE INTENTION",
+    "authors": [
+      "Dwinita Laksmidewi",
+      "Harry Susianto",
+      "Adi Zakaria Afiff"
+    ],
+    "year": 2017,
+    "journal": "Asian Academy of Management Journal",
+    "doi_or_url": "https://doi.org/10.21315/aamj2017.22.1.1",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2169629169",
+    "title": "Spontaneous mentalizing captures variability in the cortical thickness of social brain regions",
+    "authors": [
+      "Katherine Rice",
+      "Elizabeth Redcay"
+    ],
+    "year": 2014,
+    "journal": "Social Cognitive and Affective Neuroscience",
+    "doi_or_url": "https://doi.org/10.1093/scan/nsu081",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2102000539",
+    "title": "Attributing intentions to random motion engages the posterior superior temporal sulcus",
+    "authors": [
+      "Su Mei Lee",
+      "Tao Gao",
+      "Gregory McCarthy"
+    ],
+    "year": 2012,
+    "journal": "Social Cognitive and Affective Neuroscience",
+    "doi_or_url": "https://doi.org/10.1093/scan/nss110",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1971889400",
+    "title": "Neural Coding of Cooperative vs. Affective Human Interactions: 150 ms to Code the Action's Purpose",
+    "authors": [
+      "Alice Mado Proverbio",
+      "Federica Riva",
+      "Laura Paganelli",
+      "Stefano F. Cappa",
+      "Nicola Canessa",
+      "Daniela Perani",
+      "Alberto Zani"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0022026",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2035507551",
+    "title": "Embodied Language Comprehension Requires an Enactivist Paradigm of Cognition",
+    "authors": [
+      "Michiel van Elk",
+      "Marc Slors",
+      "Harold Bekkering"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2010.00234",
+    "citation_count": 46,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3157270867",
+    "title": "A large-scale structural and functional connectome of social mentalizing",
+    "authors": [
+      "Yin Wang",
+      "Athanasia Metoki",
+      "Yunman Xia",
+      "Yinyin Zang",
+      "Yong He",
+      "Ingrid R. Olson"
+    ],
+    "year": 2021,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2021.118115",
+    "citation_count": 46,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2011899555",
+    "title": "Neural Correlates of Animacy Attribution Include Neocerebellum in Healthy Adults",
+    "authors": [
+      "Allison Jack",
+      "Kevin A. Pelphrey"
+    ],
+    "year": 2014,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhu146",
+    "citation_count": 45,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2215045563",
+    "title": "Emotion recognition through static faces and moving bodies: a comparison between typically developed adults and individuals with high level of autistic traits",
+    "authors": [
+      "Rossana Actis-Grosso",
+      "Francesco Bossi",
+      "Paola Ricciardelli"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2015.01570",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2166051108",
+    "title": "Interaction without intent: the shape of the social world in Huntington\u2019s disease",
+    "authors": [
+      "Clare M. Eddy",
+      "Hugh Rickards"
+    ],
+    "year": 2015,
+    "journal": "Social Cognitive and Affective Neuroscience",
+    "doi_or_url": "https://doi.org/10.1093/scan/nsv012",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2948368019",
+    "title": "Four Social Brain Regions, Their Dysfunctions, and Sequelae, Extensively Explain Autism Spectrum Disorder Symptomatology",
+    "authors": [
+      "Charles Stewart E. Weston"
+    ],
+    "year": 2019,
+    "journal": "Brain Sciences",
+    "doi_or_url": "https://doi.org/10.3390/brainsci9060130",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2772685459",
+    "title": "Visually Perceiving the Intentions of Others",
+    "authors": [
+      "Grace Helton"
+    ],
+    "year": 2017,
+    "journal": "The Philosophical Quarterly",
+    "doi_or_url": "https://doi.org/10.1093/pq/pqx051",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4226300773",
+    "title": "Differential Tracking of Linguistic vs. Mental State Content in Naturalistic Stimuli by Language and Theory of Mind (ToM) Brain Networks",
+    "authors": [
+      "Alexander Paunov",
+      "Idan Blank",
+      "Olessia Jouravlev",
+      "Zachary Mineroff",
+      "Jeanne Gall\u00e9e",
+      "Evelina Fedorenko"
+    ],
+    "year": 2022,
+    "journal": "Neurobiology of Language",
+    "doi_or_url": "https://doi.org/10.1162/nol_a_00071",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3184668828",
+    "title": "A Pragmatic Approach to the Intentional Stance Semantic, Empirical and Ethical Considerations for the Design of Artificial Agents",
+    "authors": [
+      "Guglielmo Papagni",
+      "Sabine T. Koeszegi"
+    ],
+    "year": 2021,
+    "journal": "Minds and Machines",
+    "doi_or_url": "https://doi.org/10.1007/s11023-021-09567-6",
+    "citation_count": 39,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2900856559",
+    "title": "Imagining Others\u2019 Minds: The Positive Relation Between Children\u2019s Role Play and Anthropomorphism",
+    "authors": [
+      "Rachel L. Severson",
+      "Shailee R. Woodard"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2018.02140",
+    "citation_count": 34,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2054277280",
+    "title": "Effect of Intentional Bias on Agency Attribution of Animated Motion: An Event-Related fMRI Study",
+    "authors": [
+      "Naoyuki Osaka",
+      "Takashi Ikeda",
+      "Mariko Osaka"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0049053",
+    "citation_count": 34,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3202322099",
+    "title": "Neuronal Circuits for Social Decision-Making and Their Clinical Implications",
+    "authors": [
+      "Raymundo B\u00e1ez-Mendoza",
+      "Yuriria V\u00e1zquez",
+      "Emma P. Mastrobattista",
+      "Ziv M. Williams"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2021.720294",
+    "citation_count": 33,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4385420667",
+    "title": "We Do Not Anthropomorphize a Robot Based Only on Its Cover: Context Matters too!",
+    "authors": [
+      "Marion Dubois-Sage",
+      "Baptiste Jacquet",
+      "Frank Jamet",
+      "Jean Baratgin"
+    ],
+    "year": 2023,
+    "journal": "Applied Sciences",
+    "doi_or_url": "https://doi.org/10.3390/app13158743",
+    "citation_count": 33,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4283815403",
+    "title": "Animacy and the prediction of behaviour",
+    "authors": [
+      "Johannes Schultz",
+      "Chris Frith"
+    ],
+    "year": 2022,
+    "journal": "Neuroscience & Biobehavioral Reviews",
+    "doi_or_url": "https://doi.org/10.1016/j.neubiorev.2022.104766",
+    "citation_count": 32,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2124337710",
+    "title": "Maturation of social attribution skills in typically developing children: an investigation using the social attribution task",
+    "authors": [
+      "Zhou-yi Hu",
+      "Raymond C. Chan",
+      "Gr\u00e1inne McAlonan"
+    ],
+    "year": 2010,
+    "journal": "Behavioral and Brain Functions",
+    "doi_or_url": "https://doi.org/10.1186/1744-9081-6-10",
+    "citation_count": 29,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2097857547",
+    "title": "Emerging perception of causality in action-and-reaction sequences from 4 to 6months of age: Is it domain-specific?",
+    "authors": [
+      "Anne Schlottmann",
+      "Elizabeth Ray",
+      "Luca Surian"
+    ],
+    "year": 2012,
+    "journal": "Journal of Experimental Child Psychology",
+    "doi_or_url": "https://doi.org/10.1016/j.jecp.2011.10.011",
+    "citation_count": 28,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1948677710",
+    "title": "God: A Brief History with a Cognitive Explanation of the Concept",
+    "authors": [
+      "Ilkka Pyysi\u00e4inen"
+    ],
+    "year": 2005,
+    "journal": "Temenos - Nordic Journal for the Study of Religion",
+    "doi_or_url": "https://doi.org/10.33356/temenos.4803",
+    "citation_count": 28,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4391316646",
+    "title": "The Perception of Agency",
+    "authors": [
+      "J. Gregory Trafton",
+      "J. Malcolm McCurry",
+      "Kevin Zish",
+      "Chelsea R. Frazier"
+    ],
+    "year": 2024,
+    "journal": "ACM Transactions on Human-Robot Interaction",
+    "doi_or_url": "https://doi.org/10.1145/3640011",
+    "citation_count": 24,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2584564927",
+    "title": "What are the underlying units of perceived animacy? Chasing detection is intrinsically object-based",
+    "authors": [
+      "Benjamin van Buren",
+      "Tao Gao",
+      "Brian J. Scholl"
+    ],
+    "year": 2017,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-017-1229-4",
+    "citation_count": 24,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2140147964",
+    "title": "Emotional Complexity and the Neural Representation of Emotion in Motion",
+    "authors": [
+      "Paula Tavares",
+      "Philip Barnard",
+      "Andrew D. Lawrence"
+    ],
+    "year": 2010,
+    "journal": "Social Cognitive and Affective Neuroscience",
+    "doi_or_url": "https://doi.org/10.1093/scan/nsq021",
+    "citation_count": 24,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3175822104",
+    "title": "PHASE: PHysically-grounded Abstract Social Events for Machine Social Perception",
+    "authors": [
+      "Aviv Netanyahu",
+      "Tianmin Shu",
+      "Boris Katz",
+      "Andrei Barbu",
+      "Joshua B. Tenenbaum"
+    ],
+    "year": 2021,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.1609/aaai.v35i1.16167",
+    "citation_count": 23,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4379229507",
+    "title": "Perceiving animacy from kinematics: visual specification of life-likeness in simple geometric patterns",
+    "authors": [
+      "Giulia Parovel"
+    ],
+    "year": 2023,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2023.1167809",
+    "citation_count": 22,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4384298063",
+    "title": "Gaze patterns and brain activations in humans and marmosets in the Frith-Happ\u00e9 theory-of-mind animation task",
+    "authors": [
+      "Audrey Dureux",
+      "Alessandro Zanini",
+      "Janahan Selvanayagam",
+      "Ravi S. Menon",
+      "Stefan Everling"
+    ],
+    "year": 2023,
+    "journal": "eLife",
+    "doi_or_url": "https://doi.org/10.7554/elife.86327",
+    "citation_count": 22,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1998619964",
+    "title": "The role of kinematics in cortical regions for continuous human motion perception",
+    "authors": [
+      "Phil McAleer",
+      "Frank Pollick",
+      "Scott Love",
+      "Frances Crabbe",
+      "Jeffrey M. Zacks"
+    ],
+    "year": 2013,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-013-0192-4",
+    "citation_count": 22,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3204101559",
+    "title": "Do shapes have feelings? Social attribution in children with autism spectrum disorder and attention-deficit/hyperactivity disorder",
+    "authors": [
+      "Marlee M. Vandewouw",
+      "Kristina Safar",
+      "Sarah I. Mossad",
+      "Julie Lu",
+      "Jason P. Lerch",
+      "Evdokia Anagnostou",
+      "Margot J. Taylor"
+    ],
+    "year": 2021,
+    "journal": "Translational Psychiatry",
+    "doi_or_url": "https://doi.org/10.1038/s41398-021-01625-y",
+    "citation_count": 21,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4323911378",
+    "title": "Artificial Social Intelligence: A Comparative and Holistic View",
+    "authors": [
+      "Lifeng Fan",
+      "Manjie Xu",
+      "Zhi\u2010Hao Cao",
+      "Yixin Zhu",
+      "Song\u2010Chun Zhu"
+    ],
+    "year": 2022,
+    "journal": "CAAI Artificial Intelligence Research",
+    "doi_or_url": "https://doi.org/10.26599/air.2022.9150010",
+    "citation_count": 17,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3180624595",
+    "title": "Social cognition in individuals born preterm",
+    "authors": [
+      "Marina A. Pavlova",
+      "Jessica Galli",
+      "Federica Zanetti",
+      "Federica Pagani",
+      "Serena Micheletti",
+      "Andrea Rossi",
+      "Alexander N. Sokolov",
+      "Andreas J. Fallgatter",
+      "Elisa Maria Fazzi"
+    ],
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-021-93709-4",
+    "citation_count": 17,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4386709053",
+    "title": "My Eyes Speak: Improving Perceived Sociability of Autonomous Vehicles in Shared Spaces Through Emotional Robotic Eyes",
+    "authors": [
+      "Yiyuan Wang",
+      "Senuri Wijenayake",
+      "Marius Hoggenm\u00fcller",
+      "Luke Hespanhol",
+      "Stewart Worrall",
+      "Martin Tomitsch"
+    ],
+    "year": 2023,
+    "journal": "Proceedings of the ACM on Human-Computer Interaction",
+    "doi_or_url": "https://doi.org/10.1145/3604261",
+    "citation_count": 17,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2769508576",
+    "title": "Different contexts change the impression of animacy",
+    "authors": [
+      "Giulia Parovel",
+      "Stefano Guidi",
+      "Karina Kre\u00df"
+    ],
+    "year": 2017,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-017-1439-x",
+    "citation_count": 16,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2938387520",
+    "title": "Cues to intention bias action perception toward the most efficient trajectory",
+    "authors": [
+      "Katrina L. McDonough",
+      "Matthew Hudson",
+      "Patric Bach"
+    ],
+    "year": 2019,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-019-42204-y",
+    "citation_count": 16,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W789631479",
+    "title": "EEG oscillations reflect the complexity of social interactions in a non-verbal social cognition task using animated triangles",
+    "authors": [
+      "Christine Blume",
+      "Julia Lechinger",
+      "Renata del Giudice",
+      "Ma\u0142gorzata Wis\u0142owska",
+      "Dominik Philip Johannes Heib",
+      "Manuel Schabus"
+    ],
+    "year": 2015,
+    "journal": "Neuropsychologia",
+    "doi_or_url": "https://doi.org/10.1016/j.neuropsychologia.2015.06.009",
+    "citation_count": 15,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4210865861",
+    "title": "Neuroepigenetic impact on mentalizing in childhood",
+    "authors": [
+      "Amalia M. Skyberg",
+      "Stefen Beeler-Duden",
+      "Alison M. Goldstein",
+      "Christina A. Gancayco",
+      "Angeline S. Lillard",
+      "Jessica J. Connelly",
+      "J. P. Morris"
+    ],
+    "year": 2022,
+    "journal": "Developmental Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1016/j.dcn.2022.101080",
+    "citation_count": 13,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2053769072",
+    "title": "Motion, identity and the bias toward agency",
+    "authors": [
+      "Chris Fields"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00597",
+    "citation_count": 13,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2754153913",
+    "title": "Intact animacy perception during chase detection in ASD",
+    "authors": [
+      "Steven Vanmarcke",
+      "Sander Van de Cruys",
+      "Pieter Moors",
+      "Johan Wagemans"
+    ],
+    "year": 2017,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-017-12204-x",
+    "citation_count": 12,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2909784661",
+    "title": "Inferring power and dominance from dyadic nonverbal interactions in autism spectrum disorder",
+    "authors": [
+      "Marius Kuschefski",
+      "Christine M. Falter\u2010Wagner",
+      "Gary Bente",
+      "Kai Vogeley",
+      "Alexandra L. Georgescu"
+    ],
+    "year": 2019,
+    "journal": "Autism Research",
+    "doi_or_url": "https://doi.org/10.1002/aur.2069",
+    "citation_count": 10,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2794977021",
+    "title": "Brain Responses Underlying Anthropomorphism, Agency, and Social Attribution in Autism Spectrum Disorder",
+    "authors": [
+      "Carla J. Ammons",
+      "Constance F. Doss",
+      "David Bala",
+      "Rajesh K. Kana"
+    ],
+    "year": 2018,
+    "journal": "The Open Neuroimaging Journal",
+    "doi_or_url": "https://doi.org/10.2174/1874440001812010016",
+    "citation_count": 10,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4386521124",
+    "title": "When shapes are more than shapes: perceptual, developmental, and neurophysiological basis for attributions of animacy and theory of mind",
+    "authors": [
+      "Sajjad Torabian",
+      "Emily D. Grossman"
+    ],
+    "year": 2023,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2023.1168739",
+    "citation_count": 10,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2072904105",
+    "title": "Exploring the mental space of autonomous intentional agents",
+    "authors": [
+      "Peter C. Pantelis",
+      "Jacob Feldman"
+    ],
+    "year": 2011,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-011-0215-6",
+    "citation_count": 10,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4297906466",
+    "title": "Characterising the spatial and oscillatory unfolding of Theory of Mind in adults using fMRI and MEG",
+    "authors": [
+      "Sarah I. Mossad",
+      "Marlee M. Vandewouw",
+      "Kathrina de Villa",
+      "Elizabeth W. Pang",
+      "Margot J. Taylor"
+    ],
+    "year": 2022,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2022.921347",
+    "citation_count": 9,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4400933781",
+    "title": "Revisiting the Heider and Simmel experiment for social meaning attribution in virtual reality",
+    "authors": [
+      "Carlos Mara\u00f1es",
+      "Diego Guti\u00e9rrez",
+      "Ana Serrano"
+    ],
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-024-65532-0",
+    "citation_count": 8,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4290804254",
+    "title": "Gaze behavior as a visual cue to animacy.",
+    "authors": [
+      "Colin J. Palmer",
+      "Peter Kim",
+      "Colin W. G. Clifford"
+    ],
+    "year": 2022,
+    "journal": "Journal of Experimental Psychology General",
+    "doi_or_url": "https://doi.org/10.1037/xge0001281",
+    "citation_count": 8,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3160248528",
+    "title": "Holisms of communication: The early history of audio-visual sequence analysis",
+    "authors": [
+      "James McElvenny",
+      "Andrea Ploder"
+    ],
+    "year": 2021,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.5281/zenodo.5142265",
+    "citation_count": 7,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2058573927",
+    "title": "Using modified incremental chart parsing to ascribe intentions to animated geometric figures",
+    "authors": [
+      "David Pautler",
+      "Bryan L. Koenig",
+      "Boon-Kiat Quek",
+      "Andrew Ortony"
+    ],
+    "year": 2011,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-011-0128-2",
+    "citation_count": 7,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2897423904",
+    "title": "Sciences of Observation",
+    "authors": [
+      "Chris Fields"
+    ],
+    "year": 2018,
+    "journal": "Philosophies",
+    "doi_or_url": "https://doi.org/10.3390/philosophies3040029",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4389134976",
+    "title": "Animacy Processing in Autism: Event-Related Potentials Reflect Social Functioning Skills",
+    "authors": [
+      "Eleni Peristeri",
+      "\u039c\u03b1\u03c1\u03af\u03b1 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5",
+      "Smaranda-Nafsika Ketseridou",
+      "Ilias Machairas",
+      "Valentina Papadopoulou",
+      "Aikaterini S. Stravoravdi",
+      "Panagiotis D. Bamidis",
+      "Christos A. Frantzid\u03b9s"
+    ],
+    "year": 2023,
+    "journal": "Brain Sciences",
+    "doi_or_url": "https://doi.org/10.3390/brainsci13121656",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3025973951",
+    "title": "How Do Object Shape, Semantic Cues, and Apparent Velocity Affect the Attribution of Intentionality to Figures With Different Types of Movements?",
+    "authors": [
+      "Diego Morales-Bader",
+      "Ram\u00f3n D. Castillo",
+      "Charlotte Olivares",
+      "Francisca Mi\u00f1o"
+    ],
+    "year": 2020,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2020.00935",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4384565171",
+    "title": "Beyond the simplicity of theory of mind deficit in multiple sclerosis: from kinetic perception to socio-emotional abstraction and mentalizing",
+    "authors": [
+      "Sara Isernia",
+      "Federica Rossetto",
+      "Fulvia Castelli",
+      "Marco Rovaris",
+      "Valeria Blasi",
+      "Francesca Baglio"
+    ],
+    "year": 2023,
+    "journal": "Multiple Sclerosis and Related Disorders",
+    "doi_or_url": "https://doi.org/10.1016/j.msard.2023.104894",
+    "citation_count": 5,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3156202513",
+    "title": "Does agency matter? Neural processing of robotic movements in 4- and 8-year olds",
+    "authors": [
+      "Sari R. R. Nijssen",
+      "Carolina Pletti",
+      "Markus Paulus",
+      "Barbara C. N. M\u00fcller"
+    ],
+    "year": 2021,
+    "journal": "Neuropsychologia",
+    "doi_or_url": "https://doi.org/10.1016/j.neuropsychologia.2021.107853",
+    "citation_count": 5,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2886139166",
+    "title": "Seeing Goal-Directedness: A Case for Social Perception",
+    "authors": [
+      "Joulia Smortchkova"
+    ],
+    "year": 2018,
+    "journal": "The British Journal for the Philosophy of Science",
+    "doi_or_url": "https://doi.org/10.1093/bjps/axy046",
+    "citation_count": 5,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2922011854",
+    "title": "Latest findings in autism research: how do they support the importance of early diagnosis and immediate intervention?",
+    "authors": [
+      "Marie Schaer",
+      "Martina Franchini",
+      "St\u00e9phan Eliez"
+    ],
+    "year": 2014,
+    "journal": "Schweizer Archiv f\u00fcr Neurologie und Psychiatrie",
+    "doi_or_url": "https://doi.org/10.4414/sanp.2014.00299",
+    "citation_count": 5,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4315779732",
+    "title": "Facilitating animacy perception by manipulating stimuli exposure time",
+    "authors": [
+      "Toshiki Saito",
+      "Kosuke Motoki",
+      "Rui Nouchi",
+      "Motoaki Sugiura"
+    ],
+    "year": 2023,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2022.1017685",
+    "citation_count": 4,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1608082085",
+    "title": "Theory of Mind: Social Maneuvers and Theory of Mind",
+    "authors": [
+      "David Sally"
+    ],
+    "year": 2004,
+    "journal": "Marquette law review",
+    "doi_or_url": "https://openalex.org/W1608082085",
+    "citation_count": 4,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2797278211",
+    "title": "Look! It's Moving! Is It Alive? How Movement Affects Humans\u2019 Affinity Living and Non-Living Entities",
+    "authors": [
+      "Oliver Olsen Wolf",
+      "Gera\u00ednt A. Wiggins"
+    ],
+    "year": 2018,
+    "journal": "IEEE Transactions on Affective Computing",
+    "doi_or_url": "https://doi.org/10.1109/taffc.2018.2820707",
+    "citation_count": 4,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4413206341",
+    "title": "Understanding biological motion through the lens of animate motion processing",
+    "authors": [
+      "Li Shen",
+      "Xinlin Yang",
+      "Yi Jiang",
+      "Ying Wang"
+    ],
+    "year": 2025,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2025.1630742",
+    "citation_count": 4,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4294905131",
+    "title": "Did Chinese children with imaginary companions attribute more agencies to non-human items: Evidences from behavioral cues and appearance characteristics",
+    "authors": [
+      "Qiyi Lin",
+      "Ruiyi Zhang",
+      "Zhang Yiwen",
+      "Nan Zhou"
+    ],
+    "year": 2022,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2022.899047",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3167315122",
+    "title": "A Dynamical Generative Model of Social Interactions",
+    "authors": [
+      "Alessandro Salatiello",
+      "Mohammad Hovaidi-Ardestani",
+      "Martin A. Giese"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Neurorobotics",
+    "doi_or_url": "https://doi.org/10.3389/fnbot.2021.648527",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2995216729",
+    "title": "Measuring human perceptions of expressivity in natural and artificial systems through the live performance piece Time to compile",
+    "authors": [
+      "Catie Cuan",
+      "Erin Berl",
+      "Amy LaViers"
+    ],
+    "year": 2019,
+    "journal": "Paladyn Journal of Behavioral Robotics",
+    "doi_or_url": "https://doi.org/10.1515/pjbr-2019-0031",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4407980180",
+    "title": "Folk-Ontological Stances Towards Robots and Psychological Human Likeness",
+    "authors": [
+      "Edoardo Datteri"
+    ],
+    "year": 2025,
+    "journal": "International Journal of Social Robotics",
+    "doi_or_url": "https://doi.org/10.1007/s12369-025-01225-6",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3195909984",
+    "title": "Protean Kinematics: A Blended Model of VR Physics",
+    "authors": [
+      "David C. Jeong",
+      "Steffie Sofia Yeonjoo Kim",
+      "Jackie Jingyi Xu",
+      "Lynn C. Miller"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2021.705170",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4311522238",
+    "title": "Human-Social Robot Interaction, Anthropomorphism And Ontological Boundary Problem In Education",
+    "authors": [
+      "M\u00fccahit G\u00fcltekin"
+    ],
+    "year": 2022,
+    "journal": "Psycho-Educational Research Reviews",
+    "doi_or_url": "https://doi.org/10.52963/perr_biruni_v11.n3.11",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2945438825",
+    "title": "Goals and targets: a developmental puzzle about sensitivity to others\u2019 actions",
+    "authors": [
+      "Stephen Butterfill"
+    ],
+    "year": 2019,
+    "journal": "Synthese",
+    "doi_or_url": "https://doi.org/10.1007/s11229-019-02214-9",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4396833733",
+    "title": "The priority of intentional action: From developmental to conceptual priority",
+    "authors": [
+      "Yair Levy"
+    ],
+    "year": 2024,
+    "journal": "The Philosophical Quarterly",
+    "doi_or_url": "https://doi.org/10.1093/pq/pqae023",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4404311295",
+    "title": "Six-month-old infants use cross-modal synchrony to identify novel communicative signals",
+    "authors": [
+      "Brock Ferguson",
+      "Alexander LaTourrette",
+      "Sandra R. Waxman"
+    ],
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-024-78801-9",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4392235613",
+    "title": "Distributed agency in HRI\u2014an exploratory study of a narrative robot design",
+    "authors": [
+      "Philipp Graf",
+      "Christian S\u00f8nderskov Zarp",
+      "Lakshadeep Naik",
+      "Kevin Lefeuvre",
+      "Emanuela Marchetti",
+      "Eva Hornecker",
+      "Mads Bergholdt S\u00f8rensen",
+      "Laurits Valberg Hemmingsen",
+      "Ebbe Vincent Just Christensen",
+      "Leon Bodenhagen",
+      "Norbert Kr\u00fcger",
+      "Andreas Bischof"
+    ],
+    "year": 2024,
+    "journal": "Frontiers in Robotics and AI",
+    "doi_or_url": "https://doi.org/10.3389/frobt.2024.1253466",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4407118526",
+    "title": "Sound effects have only minor contribution to perceptions of anthropomorphism and animacy of simple animated shapes",
+    "authors": [
+      "Karen Collins",
+      "Maya Murad",
+      "Adel Manji"
+    ],
+    "year": 2025,
+    "journal": "i-Perception",
+    "doi_or_url": "https://doi.org/10.1177/20416695251315382",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2979630588",
+    "title": "IMPLICIT SOCIAL ASSOCIATIONS FOR GEOMETRIC-SHAPE AGENTS MORE STRONGLY INFLUENCED BY VISUAL FORM THAN BY EXPLICITLY IDENTIFIED SOCIAL ACTIONS",
+    "authors": [
+      "Ben Kenward",
+      "Mathias Berggren",
+      "Michiteru Kitazaki",
+      "Shoji Itakura",
+      "Yasuhiro Kanakogi"
+    ],
+    "year": 2018,
+    "journal": "PSYCHOLOGIA",
+    "doi_or_url": "https://doi.org/10.2117/psysoc.2019-a005",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2284027269",
+    "title": "Distributing Cognition: A Defense of Collective Mentality",
+    "authors": [
+      "Bryce Huebner"
+    ],
+    "year": 2019,
+    "journal": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+    "doi_or_url": "https://doi.org/10.17615/fd58-d008",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4205786879",
+    "title": "The dynamics of responsibility judgment: Joint role of causal explanations based on dependence and transference",
+    "authors": [
+      "Sofia Bonicalzi",
+      "Eugenia Kulakova",
+      "Chiara Brozzo",
+      "Sam J. Gilbert",
+      "Patrick Haggard"
+    ],
+    "year": 2022,
+    "journal": "Philosophical Psychology",
+    "doi_or_url": "https://doi.org/10.1080/09515089.2021.2021165",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3044434194",
+    "title": "Exploring how harming and helping behaviors drive prediction and explanation during anthropomorphism",
+    "authors": [
+      "Lasana T. Harris",
+      "Noor van Etten",
+      "Tamara Gim\u00e9nez\u2010Fern\u00e1ndez"
+    ],
+    "year": 2020,
+    "journal": "Social Neuroscience",
+    "doi_or_url": "https://doi.org/10.1080/17470919.2020.1799859",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4360921671",
+    "title": "Talking about moving machines",
+    "authors": [
+      "C\u00e9line Pieters",
+      "Emmanuelle Danblon",
+      "Philippe Sou\u00e8res",
+      "Jean\u2010Paul Laumond"
+    ],
+    "year": 2022,
+    "journal": "Interaction Studies Social Behaviour and Communication in Biological and Artificial Systems",
+    "doi_or_url": "https://doi.org/10.1075/is.22005.pie",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2584174116",
+    "title": "Theatre architecture as embodied space",
+    "authors": [
+      "Lisa Marie Bowler"
+    ],
+    "year": 2016,
+    "journal": "Electronic Theses of LMU Munich (Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen)",
+    "doi_or_url": "https://doi.org/10.5282/edoc.20310",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4411281378",
+    "title": "Why Direct Social Perception Theory Needs To Be More Gibsonian",
+    "authors": [
+      "Martyna Meyer",
+      "Edward Baggs"
+    ],
+    "year": 2025,
+    "journal": "JOLMA",
+    "doi_or_url": "https://doi.org/10.30687/jolma/2723-9640/2025/01/002",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4402626500",
+    "title": "Comparing third-party responsibility with intention attribution: An fMRI investigation of moral judgment",
+    "authors": [
+      "Eugenia Kulakova",
+      "Sofia Bonicalzi",
+      "Adrian L. Williams",
+      "Patrick Haggard"
+    ],
+    "year": 2024,
+    "journal": "Consciousness and Cognition",
+    "doi_or_url": "https://doi.org/10.1016/j.concog.2024.103762",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W7160566619",
+    "title": "Anthropomorphism in Language and Thought: The Effect of Agentive Linguistic Framing on Readers\u2019 Perceptions of AI Animacy",
+    "authors": [
+      "Dawson Petersen"
+    ],
+    "year": 2025,
+    "journal": "Scholar Commons (University of South Carolina)",
+    "doi_or_url": "https://openalex.org/W7160566619",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4416672912",
+    "title": "Windows to the Social Mind: What Eye-Tracking Reveals About Theory of Mind in Children and Young Adults with Autism Spectrum Disorder (ASD)",
+    "authors": [
+      "Sobh Chahboun",
+      "Brian Sullivan",
+      "David Salda\u00f1a",
+      "Mila Vulchanova",
+      "Martina Micai"
+    ],
+    "year": 2025,
+    "journal": "Behavioral Sciences",
+    "doi_or_url": "https://doi.org/10.3390/bs15121622",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4411460071",
+    "title": "Attribution of subjective experience to geometric figures in narratives by autistic children and children with developmental language disorder",
+    "authors": [
+      "Mads Nielsen",
+      "Rikke Vang Christensen",
+      "Elisabeth Engberg-Pedersen"
+    ],
+    "year": 2025,
+    "journal": "Language and Cognition",
+    "doi_or_url": "https://doi.org/10.1017/langcog.2025.10005",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4410552501",
+    "title": "The rediscovery of Fritz Heider\u2019s early social cognition: a person-centered perspective",
+    "authors": [
+      "Yaming Shang",
+      "Da Dong",
+      "Wei Chen"
+    ],
+    "year": 2025,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2025.1577720",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W160055708",
+    "title": "The Effect of Contextual Bias on the Processing of Negative Emotions in Patients with Right Hemisphere Damage",
+    "authors": [
+      "Alexandra Zezinka"
+    ],
+    "year": 2014,
+    "journal": "D-Scholarship@Pitt (University of Pittsburgh)",
+    "doi_or_url": "https://openalex.org/W160055708",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W7148689396",
+    "title": "Best-of-n decision making by human groups",
+    "authors": [
+      "Nicolas Coucke",
+      "Marco Dorigo",
+      "Axel Cleeremans",
+      "Mary Katherine Heinrich"
+    ],
+    "year": 2026,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0329722",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2531173492",
+    "title": "Sosiaalinen paikannin \u2013 ty\u00f6kalu sosiaaliseen kognitioon liittyvien aivoalueiden paikantamiseen fMRI:n avulla",
+    "authors": [
+      "Timo Nurmi"
+    ],
+    "year": 2016,
+    "journal": "Ty\u00f6v\u00e4entutkimus Vuosikirja",
+    "doi_or_url": "https://openalex.org/W2531173492",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2608126621",
+    "title": "Social Attribution in Toddlers At Risk for Autism Spectrum Disorder",
+    "authors": [
+      "Natasha N. Ludwig"
+    ],
+    "year": 2022,
+    "journal": "Digital Archive @ GSU",
+    "doi_or_url": "https://doi.org/10.57709/10070390",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4287865246",
+    "title": "Social brain activation during mentalizing in a large autism cohort: the Longitudinal European Autism Project",
+    "authors": [
+      "Carolin Moessnang",
+      "Sarah Baumeister",
+      "Julian Tillmann",
+      "David Goyard",
+      "Tony Charman",
+      "Sara Ambrosino",
+      "Simon Baron\u2010Cohen",
+      "Christian F. Beckmann",
+      "Sven B\u00f6lte",
+      "Carsten Bours",
+      "Daisy Crawley",
+      "Flavio Dell\u2019Acqua"
+    ],
+    "year": 2020,
+    "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+    "doi_or_url": "https://doi.org/10.5281/zenodo.5676125",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W7137754870",
+    "title": "Transmedial Narration",
+    "authors": [
+      "Lars Ellestr\u00f6m"
+    ],
+    "year": 2019,
+    "journal": "Directory of Open access Books (OAPEN Foundation)",
+    "doi_or_url": "https://openalex.org/W7137754870",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4300466306",
+    "title": "Grasping the Intentions of Others: The Perceived Intentionality of an Action Influences Activity in the Superior Temporal Sulcus during Social Perception",
+    "authors": [
+      "Gregory McCarthy",
+      "James Morris",
+      "Kevin A. Pelphrey"
+    ],
+    "year": 2021,
+    "journal": "UNC Libraries",
+    "doi_or_url": "https://doi.org/10.17615/62h2-5a85",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

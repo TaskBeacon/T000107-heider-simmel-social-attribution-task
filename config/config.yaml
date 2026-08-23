@@ -1,0 +1,175 @@
+subinfo_fields:
+  - name: subject_id
+    type: int
+    constraints: {min: 101, max: 999, digits: 3}
+  - name: age
+    type: int
+    constraints: {min: 18, max: 80}
+  - name: gender
+    type: choice
+    choices: [女性, 男性, 其他或不愿说明]
+
+subinfo_mapping:
+  subject_id: 被试编号（3 位数字）
+  age: 年龄
+  gender: 性别
+  Participant Information: 被试信息
+  registration_failed: 登记失败
+  registration_successful: 登记成功
+  invalid_input: "{field} 输入无效"
+
+window:
+  size: [1280, 720]
+  units: pix
+  screen: 0
+  bg_color: "#FAFAF8"
+  fullscreen: false
+  monitor_width_cm: 35.5
+  monitor_distance_cm: 60
+
+task:
+  task_name: heider_simmel_social_attribution_task
+  task_version: 0.1.0
+  save_path: ./outputs/human
+  language: Chinese
+  voice_name: zh-CN-YunyangNeural
+  voice_enabled: false
+  seed_mode: same_within_sub
+  overall_seed: 107107
+  total_blocks: 1
+  total_trials: 6
+  trial_per_block: 6
+  trials_per_block: 6
+  conditions: [social_helping, social_chasing, mechanical_bounce, mechanical_conveyor, random_drift_a, random_drift_b]
+  condition_weights: null
+  continue_key: space
+  submit_key: return
+  judgment_keys: ["1", "2", "3"]
+  family_key_map: {social: "1", mechanical: "2", random: "3"}
+  condition_family:
+    social_helping: social
+    social_chasing: social
+    mechanical_bounce: mechanical
+    mechanical_conveyor: mechanical
+    random_drift_a: random
+    random_drift_b: random
+  condition_movie:
+    social_helping: movie_social_helping
+    social_chasing: movie_social_chasing
+    mechanical_bounce: movie_mechanical_bounce
+    mechanical_conveyor: movie_mechanical_conveyor
+    random_drift_a: movie_random_drift_a
+    random_drift_b: movie_random_drift_b
+  key_list: [space, return, "1", "2", "3"]
+  cognitive_domain: [social_cognition, mentalizing, social_attribution]
+  variant: baseline
+  delta: 0.0
+
+timing:
+  fixation_duration_s: 0.5
+  animation_duration_s: 15.0
+  replay_interval_s: 0.5
+  narrative_response_window_s: 60.0
+  judgment_response_window_s: 8.0
+  iti_duration_s: 0.75
+
+stimuli:
+  instruction:
+    type: text
+    font: SimHei
+    text: |-
+      接下来你会看到若干段无声的几何图形运动。
+
+      每段动画会自动播放两遍。第二遍结束后，请在文本框中自然描述你认为发生了什么，尽量写出完整过程；输入完成后按回车键提交。
+      随后还会出现一个简短判断题。观看时请保持注意，不需要在动画播放期间按键。
+
+      按空格键开始。
+    color: "#1F2933"
+    height: 30
+    wrapWidth: 1040
+    pos: [0, 0]
+  fixation: {type: text, font: Arial, text: "+", color: "#20262E", height: 38, pos: [0, 0]}
+  movie_social_helping: {type: movie, filename: assets/animations/social_helping.mp4, size: [960, 540], units: pix}
+  movie_social_chasing: {type: movie, filename: assets/animations/social_chasing.mp4, size: [960, 540], units: pix}
+  movie_mechanical_bounce: {type: movie, filename: assets/animations/mechanical_bounce.mp4, size: [960, 540], units: pix}
+  movie_mechanical_conveyor: {type: movie, filename: assets/animations/mechanical_conveyor.mp4, size: [960, 540], units: pix}
+  movie_random_drift_a: {type: movie, filename: assets/animations/random_drift_a.mp4, size: [960, 540], units: pix}
+  movie_random_drift_b: {type: movie, filename: assets/animations/random_drift_b.mp4, size: [960, 540], units: pix}
+  narrative_prompt:
+    type: text
+    font: SimHei
+    text: 请描述这段动画中发生了什么。尽量写出图形之间的行为、关系或完整过程。
+    color: "#1F2933"
+    height: 30
+    wrapWidth: 1040
+    pos: [0, 245]
+  narrative_entry:
+    type: textbox
+    text: ""
+    font: SimHei
+    letterHeight: 28
+    size: [980, 360]
+    pos: [0, -5]
+    color: "#111827"
+    borderColor: "#64748B"
+    fillColor: "#FFFFFF"
+    borderWidth: 2
+    alignment: left
+    anchor: center
+    editable: true
+  narrative_submit_hint:
+    type: text
+    font: SimHei
+    text: 输入完成后按回车键提交
+    color: "#536170"
+    height: 24
+    wrapWidth: 900
+    pos: [0, -285]
+  judgment_prompt:
+    type: text
+    font: SimHei
+    text: 整体而言，这段运动最接近哪一类？
+    color: "#1F2933"
+    height: 34
+    wrapWidth: 1000
+    pos: [0, 190]
+  judgment_option_social: {type: textbox, font: SimHei, text: "1  社会互动", color: "#173A5E", fillColor: "#E8F1FA", borderColor: "#5B7FA3", borderWidth: 2, size: [280, 120], letterHeight: 30, alignment: center, pos: [-350, -45]}
+  judgment_option_mechanical: {type: textbox, font: SimHei, text: "2  机械运动", color: "#493B19", fillColor: "#F7F0DD", borderColor: "#9B8550", borderWidth: 2, size: [280, 120], letterHeight: 30, alignment: center, pos: [0, -45]}
+  judgment_option_random: {type: textbox, font: SimHei, text: "3  随机运动", color: "#4D2C45", fillColor: "#F6EAF3", borderColor: "#936D89", borderWidth: 2, size: [280, 120], letterHeight: 30, alignment: center, pos: [350, -45]}
+  good_bye:
+    type: text
+    font: SimHei
+    text: |-
+      任务完成，感谢参与。
+
+      按空格键退出。
+    color: "#1F2933"
+    height: 32
+    wrapWidth: 1000
+    pos: [0, 0]
+
+triggers:
+  map:
+    experiment_start: 1
+    experiment_end: 2
+    block_start: 3
+    block_end: 4
+    fixation_onset: 10
+    social_animation_onset: 11
+    mechanical_animation_onset: 12
+    random_animation_onset: 13
+    replay_interval_onset: 14
+    animation_replay_onset: 15
+    narrative_onset: 20
+    narrative_submit: 21
+    narrative_timeout: 22
+    judgment_onset: 30
+    judgment_social: 31
+    judgment_mechanical: 32
+    judgment_random: 33
+    judgment_timeout: 34
+    iti_onset: 40
+    goodbye_onset: 50
+  driver: {type: serial_url, url: "loop://", baudrate: 115200, timeout: 1, prefix: [1, 225, 1, 0]}
+  policy: {strict: false}
+  timing: {post_delay_s: 0.001}
